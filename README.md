@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Alen and I'm a Full-Stack Web Developer, from Kerala, India</p>
+<p align="left">My name is Alen and I'm a Web Developer, from Kerala, India</p>
 
 ###
 
@@ -10,8 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: the first "Hello, World!" but squashing them like a pro now!<br>📚 I'm currently learning: application development and improving my skills in building scalable, user-friendly apps.<br>🎯 Goals: To build impactful, scalable applications and contribute to open-source projects.<br>🎲 Fun fact: I can debug faster with coffee and have a knack for finding creative solutions when stuck!</p>
-
+<p align="left">✨ Creating bugs since: the first "Hello, World!" but squashing them like a pro now!<br>📚 I'm currently learning: application development and improving my skills in building scalable, user-friendly apps.<br>🎯 Goals: To build impactful, scalable applications and contribute to open-source projects.
 ###
 
 <h2 align="left">I code with</h2>
